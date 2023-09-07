@@ -2,4 +2,4 @@
 This project is a password generator that can be used to create strong and secure passwords. It is built using HTML, CSS, and JavaScript.
 <br>
 
-[Password Generator]()
+[Password Generator](https://password-generator-ds.netlify.app/)
